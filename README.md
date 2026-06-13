@@ -11,9 +11,7 @@ With a continuous learning mindset and strong problem-solving abilities, I am ac
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vigyanshu-pandey-484a28271)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vigyanshupandey/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vigyanshuofficial@gmail.com)
 
 ---
